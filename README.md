@@ -33,6 +33,12 @@ python app.py
 * **Chatbots:** Build intelligent chatbots that can understand and respond to human language.
 * **Named Entity Recognition:** Identify and extract entities like names, locations, and organizations from text.
 
+### Preview
+
+![alt text](pics/prompt.png)
+
+![alt text](pics/prompt2.png)
+
 ## Contributing
 
 Contributions are welcome! If you encounter any bugs or have suggestions for new features, please open an issue or submit a pull request.
