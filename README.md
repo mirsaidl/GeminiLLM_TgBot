@@ -8,6 +8,7 @@ Large Language Model Gemini deployed on Telegram Bot
 ### Setup
 
 1 Get Telegram API
+
 2 Create a project on Vertex AI
 
 ```bash
